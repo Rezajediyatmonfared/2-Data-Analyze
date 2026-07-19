@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,Braund Mr Owen Harris,1,26,1,0,761163,725,10121,333
+2,1,1,Cumings Mrs John Bradley (Florence Briggs Thayer),0,20,1,0,259420,712833,20105,222
+3,1,3,Heikkinen Miss Laina,0,47,0,0,120846,7925,20128,333
+4,1,1,Futrelle Mrs Jacques Heath (Lily May Peel),0,31,1,0,185621,531,30116,333
+5,0,3,Allen Mr William Henry,1,25,0,0,747948,805,30114,333
+6,0,3,Moran Mr James,1,46,0,0,602602,84583,10121,111
+7,0,1,McCarthy Mr Timothy J,1,36,0,0,601400,518625,10149,333
+8,0,3,Palsson Master Gosta Leonard,1,21,3,1,959036,21075,30120,333
+9,1,3,Johnson Mrs Oscar W (Elisabeth Vilhelmina Berg),0,65,0,2,199726,111333,20104,333
+10,1,2,Nasser Mrs Nicholas (Adele Achem),0,29,1,0,953411,300708,20127,222
+11,1,3,Sandstrom Miss Marguerite Rut,0,28,1,1,106798,167,20136,333
+12,1,1,Bonnell Miss Elizabeth,0,61,0,0,421653,2655,30139,333
+13,0,3,Saundercock Mr William Henry,1,58,0,0,727661,805,20133,333
+14,0,3,Andersson Mr Anders Johan,1,29,1,5,902792,31275,10111,333
+15,0,3,Vestrom Miss Hulda Amanda Adolfina,0,30,0,0,909347,78542,30137,333
+16,1,2,Hewlett Mrs (Mary D Kingcome) ,0,25,0,0,803889,16,20101,333
+17,0,3,Rice Master Eugene,1,31,4,1,254919,29125,20150,111
+18,1,2,Williams Mr Charles Eugene,1,39,0,0,673493,13,20145,333
+19,0,3,Vander Planke Mrs Julius (Emelia Maria Vandemoortele),0,30,1,0,121831,18,10133,333
+20,1,3,Masselmani Mrs Fatima,0,60,0,0,485540,7225,30113,222
+21,0,2,Fynney Mr Joseph J,1,44,0,0,641044,26,10121,333
+22,1,2,Beesley Mr Lawrence,1,29,0,0,243058,13,10116,333
+23,1,3,"McGowan Miss Anna ""Annie""",0,25,0,0,453948,80292,30104,111
+24,1,1,Sloper Mr William Thompson,1,34,0,0,513832,355,30129,333
+25,0,3,Palsson Miss Torborg Danira,0,38,3,1,605837,21075,20109,333
+26,1,3,Asplund Mrs Carl Oscar (Selma Augusta Emilia Johansson),0,27,1,5,522674,313875,30150,333
+27,0,3,Emir Mr Farred Chehab,1,33,0,0,834480,7225,30127,222
+28,0,1,Fortune Mr Charles Alexander,1,49,3,2,251488,263,30100,333
+29,1,3,"O'Dwyer Miss Ellen ""Nellie""",0,20,0,0,703293,78792,30140,111
+30,0,3,Todoroff Mr Lalio,1,32,0,0,939170,78958,10146,333
+31,0,1,Uruchurtu Don Manuel E,1,21,0,0,813113,277208,20100,222
+32,1,1,Spencer Mrs William Augustus (Marie Eugenie),0,52,1,0,359741,1465208,10133,222
+33,1,3,Glynn Miss Mary Agatha,0,43,0,0,940836,775,30105,111
+34,0,2,Wheadon Mr Edward H,1,61,0,0,780944,105,10138,333
+35,0,1,Meyer Mr Edgar Joseph,1,31,1,0,514159,821708,30128,222
+36,0,1,Holverson Mr Alexander Oskar,1,26,1,0,482809,52,10117,333
+37,1,3,Mamee Mr Hanna,1,61,0,0,321056,72292,20149,222
+38,0,3,Cann Mr Ernest Charles,1,55,0,0,358242,805,10120,333
+39,0,3,Vander Planke Miss Augusta Maria,0,29,2,0,819631,18,30117,333
+40,1,3,Nicola-Yarred Miss Jamila,0,45,1,0,645867,112417,20109,222
+41,0,3,Ahlin Mrs Johan (Johanna Persdotter Larsson),0,48,1,0,373523,9475,20110,333
+42,0,2,Turpin Mrs William John Robert (Dorothy Ann Wonnacott),0,51,1,0,632536,21,30134,333
+43,0,3,Kraeff Mr Theodor,1,26,0,0,509699,78958,30139,222
+44,1,2,Laroche Miss Simonne Marie Anne Andree,0,48,1,2,316729,415792,30100,222
+45,1,3,Devaney Miss Margaret Delia,0,24,0,0,523014,78792,10139,111
+46,0,3,Rogers Mr William John,1,45,0,0,866165,805,10114,333
+47,0,3,Lennon Mr Denis,1,64,1,0,348747,155,10139,111
+48,1,3,O'Driscoll Miss Bridget,0,46,0,0,185446,775,10144,111
+49,0,3,Samaan Mr Youssef,1,54,2,0,549817,216792,10103,222
+50,0,3,Arnold-Franchi Mrs Josef (Josefine Franchi),0,45,1,0,192059,178,10132,333
+51,0,3,Panula Master Juha Niilo,1,38,4,1,931586,396875,30101,333
+52,0,3,Nosworthy Mr Richard Cater,1,47,0,0,217378,78,10105,333
+53,1,1,Harper Mrs Henry Sleeper (Myna Haxtun),0,60,1,0,360058,767292,20150,222
+54,1,2,Faunthorpe Mrs Lizzie (Elizabeth Anne Wilkinson),0,20,1,0,956463,26,30136,333
+55,0,1,Ostby Mr Engelhart Cornelius,1,23,0,1,991338,619792,10125,222
+56,1,1,Woolner Mr Hugh,1,57,0,0,945242,355,30111,333
+57,1,2,Rugg Miss Emily,0,38,0,0,842175,105,30118,333
+58,0,3,Novel Mr Mansouer,1,60,0,0,242008,72292,30115,222
+59,1,2,West Miss Constance Mirium,0,49,1,2,798863,2775,20141,333
+60,0,3,Goodwin Master William Frederick,1,23,5,2,104119,469,10101,333
+61,0,3,Sirayanian Mr Orsen,1,56,0,0,141512,72292,20107,222
+62,1,1,Icard Miss Amelie,0,25,0,0,986480,80,30131,111
+63,0,1,Harris Mr Henry Birkhardt,1,28,1,0,565532,83475,10150,333
+64,0,3,Skoog Master Harald,1,31,3,2,134672,279,10148,333
+65,0,1,Stewart Mr Albert A,1,59,0,0,510571,277208,20121,222
+66,1,3,Moubarek Master Gerios,1,36,1,1,648100,152458,10102,222
+67,1,2,Nye Mrs (Elizabeth Ramell),0,35,0,0,772511,105,20106,333
+68,0,3,Crease Mr Ernest James,1,60,0,0,766411,81583,10141,333
+69,1,3,Andersson Miss Erna Alexandra,0,26,4,2,376883,7925,10106,333
+70,0,3,Kink Mr Vincenz,1,56,2,0,607451,86625,10134,333
+71,0,2,Jenkin Mr Stephen Curnow,1,59,0,0,808541,105,30137,333
+72,0,3,Goodwin Miss Lillian Amy,0,56,5,2,437735,469,10122,333
+73,0,2,Hood Mr Ambrose Jr,1,49,0,0,715547,735,30107,333
+74,0,3,Chronopoulos Mr Apostolos,1,59,1,0,952051,144542,10128,222
+75,1,3,Bing Mr Lee,1,23,0,0,531543,564958,10121,333
+76,0,3,Moen Mr Sigurd Hansen,1,28,0,0,602756,765,20122,333
+77,0,3,Staneff Mr Ivan,1,29,0,0,361797,78958,30139,333
+78,0,3,Moutal Mr Rahamin Haim,1,29,0,0,774880,805,20100,333
+79,1,2,Caldwell Master Alden Gates,1,53,0,2,419622,29,20124,333
+80,1,3,Dowdell Miss Elizabeth,0,43,0,0,237768,12475,30146,333
+81,0,3,Waelens Mr Achille,1,41,0,0,495877,9,30102,333
+82,1,3,Sheerlinck Mr Jan Baptist,1,55,0,0,145038,95,20106,333
+83,1,3,McDermott Miss Brigdet Delia,0,22,0,0,770954,77875,20148,111
+84,0,1,Carrau Mr Francisco M,1,43,0,0,782328,471,20136,333
+85,1,2,Ilett Miss Bertha,0,23,0,0,844994,105,20114,333
+86,1,3,Backstrom Mrs Karl Alfred (Maria Mathilda Gustafsson),0,40,3,0,611460,1585,10143,333
+87,0,3,Ford Mr William Neal,1,36,1,3,811416,34375,10144,333
+88,0,3,Slocovski Mr Selman Francis,1,21,0,0,494836,805,30123,333
+89,1,1,Fortune Miss Mabel Helen,0,55,3,2,360364,263,20140,333
+90,0,3,Celotti Mr Francesco,1,50,0,0,370035,805,20133,333
+91,0,3,Christmann Mr Emil,1,52,0,0,371864,805,30125,333
+92,0,3,Andreasson Mr Paul Edvin,1,60,0,0,413083,78542,20125,333
+93,0,1,Chaffee Mr Herbert Fuller,1,39,1,0,201108,61175,20146,333
+94,0,3,Dean Mr Bertram Frank,1,33,1,2,861442,20575,30113,333
+95,0,3,Coxon Mr Daniel,1,25,0,0,557744,725,20144,333
+96,0,3,Shorney Mr Charles Joseph,1,49,0,0,288208,805,20146,333
+97,0,1,Goldschmidt Mr George B,1,64,0,0,486724,346542,10135,222
+98,1,1,Greenfield Mr William Bertram,1,30,0,1,796189,633583,20100,222
+99,1,2,Doling Mrs John T (Ada Julia Bone),0,20,0,1,368961,23,10128,333
+100,0,2,Kantor Mr Sinai,1,42,1,0,520066,26,30138,333
+101,0,3,Petranec Miss Matilda,0,34,0,0,718561,78958,10134,333
+102,0,3,"Petroff Mr Pastcho (""Pentcho"")",1,22,0,0,286700,78958,30108,333
+103,0,1,White Mr Richard Frasar,1,42,0,1,104205,772875,20113,333
+104,0,3,Johansson Mr Gustaf Joel,1,44,0,0,925373,86542,10128,333
+105,0,3,Gustafsson Mr Anders Vilhelm,1,49,2,0,194398,7925,10111,333
+106,0,3,Mionoff Mr Stoytcho,1,60,0,0,199949,78958,20131,333
+107,1,3,Salkjelsvik Miss Anna Kristine,0,32,0,0,765464,765,30140,333
+108,1,3,Moss Mr Albert Johan,1,57,0,0,836690,7775,30122,333
+109,0,3,Rekic Mr Tido,1,63,0,0,767593,78958,20138,333
+110,1,3,Moran Miss Bertha,0,54,1,0,655240,2415,30146,111
+111,0,1,Porter Mr Walter Chamberlain,1,41,0,0,415245,52,20117,333
+112,0,3,Zabour Miss Hileni,0,64,1,0,753181,144542,10126,222
+113,0,3,Barton Mr David John,1,46,0,0,458847,805,20113,333
+114,0,3,Jussila Miss Katriina,0,34,1,0,645450,9825,20106,333
+115,0,3,Attalah Miss Malake,0,42,0,0,145594,144583,20116,222
+116,0,3,Pekoniemi Mr Edvard,1,27,0,0,386703,7925,20148,333
+117,0,3,Connors Mr Patrick,1,65,0,0,923109,775,30139,111
+118,0,2,Turpin Mr William John Robert,1,29,1,0,981703,21,10127,333
+119,0,1,Baxter Mr Quigg Edmond,1,57,0,1,346110,2475208,10130,222
+120,0,3,Andersson Miss Ellis Anna Maria,0,28,4,2,819537,31275,20141,333
+121,0,2,Hickman Mr Stanley George,1,37,2,0,316196,735,30117,333
+122,0,3,Moore Mr Leonard Charles,1,31,0,0,548893,805,10136,333
+123,0,2,Nasser Mr Nicholas,1,41,1,0,524991,300708,20124,222
+124,1,2,Webber Miss Susan,0,24,0,0,321128,13,10139,333
+125,0,1,White Mr Percival Wayland,1,36,0,1,211331,772875,30106,333
+126,1,3,Nicola-Yarred Master Elias,1,62,1,0,185093,112417,10142,222
+127,0,3,McMahon Mr Martin,1,58,0,0,737311,775,10142,111
+128,1,3,Madsen Mr Fridtjof Arne,1,35,0,0,486265,71417,30131,333
+129,1,3,Peter Miss Anna,0,60,1,1,490827,223583,30102,222
+130,0,3,Ekstrom Mr Johan,1,42,0,0,558590,6975,20123,333
+131,0,3,Drazenoic Mr Jozef,1,61,0,0,453206,78958,30127,222
+132,0,3,Coelho Mr Domingos Fernandeo,1,35,0,0,232062,705,20116,333
+133,0,3,Robins Mrs Alexander A (Grace Charity Laury),0,61,1,0,157714,145,10106,333
+134,1,2,Weisz Mrs Leopold (Mathilde Francoise Pede),0,37,1,0,549287,26,20130,333
+135,0,2,Sobey Mr Samuel James Hayden,1,41,0,0,240143,13,10113,333
+136,0,2,Richard Mr Emile,1,35,0,0,508321,150458,30128,222
+137,1,1,Newsom Miss Helen Monypeny,0,43,0,2,960814,262833,10101,333
+138,0,1,Futrelle Mr Jacques Heath,1,23,1,0,965435,531,20139,333
+139,0,3,Osen Mr Olaf Elon,1,57,0,0,918476,92167,10123,333
+140,0,1,Giglio Mr Victor,1,41,0,0,312104,792,10128,222
+141,0,3,Boulos Mrs Joseph (Sultana),0,48,0,2,682428,152458,20104,222
+142,1,3,Nysten Miss Anna Sofia,0,21,0,0,801762,775,30123,333
+143,1,3,Hakkarainen Mrs Pekka Pietari (Elin Matilda Dolck),0,27,1,0,698098,1585,20135,333
+144,0,3,Burke Mr Jeremiah,1,44,0,0,593164,675,10121,111
+145,0,2,Andrew Mr Edgardo Samuel,1,37,0,0,919167,115,10131,333
+146,0,2,Nicholls Mr Joseph Charles,1,49,1,1,125998,3675,30138,333
+147,1,3,"Andersson Mr August Edvard (""Wennerstrom"")",1,57,0,0,878442,77958,10131,333
+148,0,3,"Ford Miss Robina Maggie ""Ruby""",0,23,2,2,658865,34375,30100,333
+149,0,2,"Navratil Mr Michel (""Louis M Hoffman"")",1,56,0,2,940166,26,30109,333
+150,0,2,Byles Rev Thomas Roussel Davids,1,47,0,0,427145,13,20123,333
+151,0,2,Bateman Rev Robert James,1,46,0,0,692162,12525,20112,333
+152,1,1,Pears Mrs Thomas (Edith Wearne),0,61,1,0,295586,666,20132,333
+153,0,3,Meo Mr Alfonzo,1,45,0,0,707203,805,30127,333
+154,0,3,van Billiard Mr Austin Blyler,1,28,0,2,421840,145,20141,333
+155,0,3,Olsen Mr Ole Martin,1,50,0,0,812030,73125,20137,333
+156,0,1,Williams Mr Charles Duane,1,58,0,1,478368,613792,10121,222
+157,1,3,"Gilnagh Miss Katherine ""Katie""",0,45,0,0,769111,77333,30119,111
+158,0,3,Corn Mr Harry,1,54,0,0,127539,805,20127,333
+159,0,3,Smiljanic Mr Mile,1,37,0,0,760220,86625,10127,333
+160,0,3,Sage Master Thomas Henry,1,34,8,2,694520,6955,30133,333
+161,0,3,Cribb Mr John Hatfield,1,57,0,1,862690,161,10128,333
+162,1,2,"Watt Mrs James (Elizabeth ""Bessie"" Inglis Milne)",0,59,0,0,672408,1575,10114,333
+163,0,3,Bengtsson Mr John Viktor,1,25,0,0,415770,7775,30144,333
+164,0,3,Calic Mr Jovo,1,24,0,0,601679,86625,10132,333
+165,0,3,Panula Master Eino Viljami,1,43,4,1,335061,396875,10143,333
+166,1,3,"Goldsmith Master Frank John William ""Frankie""",1,65,0,2,603624,20525,30117,333
+167,1,1,Chibnall Mrs (Edith Martha Bowerman),0,23,0,1,578989,55,10135,333
+168,0,3,Skoog Mrs William (Anna Bernhardina Karlsson),0,29,1,4,274296,279,20117,333
+169,0,1,Baumann Mr John D,1,37,0,0,811105,25925,10130,333
+170,0,3,Ling Mr Lee,1,30,0,0,625055,564958,10125,333
+171,0,1,Van der hoef Mr Wyckoff,1,64,0,0,348773,335,30136,333
+172,0,3,Rice Master Arthur,1,22,4,1,495142,29125,10137,111
+173,1,3,Johnson Miss Eleanor Ileen,0,56,1,1,169860,111333,20112,333
+174,0,3,Sivola Mr Antti Wilhelm,1,46,0,0,161175,7925,10119,333
+175,0,1,Smith Mr James Clinch,1,24,0,0,861239,306958,20150,222
+176,0,3,Klasen Mr Klas Albin,1,41,1,1,675561,78542,30105,333
+177,0,3,Lefebre Master Henry Forbes,1,31,3,1,563556,254667,20129,333
+178,0,1,Isham Miss Ann Elizabeth,0,42,0,0,170374,287125,20130,222
+179,0,2,Hale Mr Reginald,1,33,0,0,295332,13,20140,333
+180,0,3,Leonard Mr Lionel,1,26,0,0,310615,0,10142,333
+181,0,3,Sage Miss Constance Gladys,0,30,8,2,753705,6955,20133,333
+182,0,2,Pernot Mr Rene,1,62,0,0,993500,1505,10145,222
+183,0,3,Asplund Master Clarence Gustaf Hugo,1,39,4,2,978117,313875,30103,333
+184,1,2,Becker Master Richard F,1,57,2,1,447053,39,10128,333
+185,1,3,Kink-Heilmann Miss Luise Gretchen,0,32,0,2,686296,22025,10150,333
+186,0,1,Rood Mr Hugh Roscoe,1,62,0,0,937712,50,20122,333
+187,1,3,"O'Brien Mrs Thomas (Johanna ""Hannah"" Godfrey)",0,46,1,0,495220,155,20108,111
+188,1,1,"Romaine Mr Charles Hallace (""Mr C Rolmane"")",1,59,0,0,123144,2655,10137,333
+189,0,3,Bourke Mr John,1,29,1,1,258888,155,10113,111
+190,0,3,Turcin Mr Stjepan,1,55,0,0,786139,78958,20112,333
+191,1,2,Pinsky Mrs (Rosa),0,34,0,0,741158,13,10108,333
+192,0,2,Carbines Mr William,1,55,0,0,940725,13,10131,333
+193,1,3,Andersen-Jensen Miss Carla Christine Nielsine,0,56,1,0,593906,78542,20147,333
+194,1,2,Navratil Master Michel M,1,64,1,1,615775,26,30149,333
+195,1,1,Brown Mrs James Joseph (Margaret Tobin),0,55,0,0,776812,277208,20117,222
+196,1,1,Lurette Miss Elise,0,24,0,0,776982,1465208,20127,222
+197,0,3,Mernagh Mr Robert,1,44,0,0,700226,775,30145,111
+198,0,3,Olsen Mr Karl Siegwart Andreas,1,36,0,1,205924,84042,10105,333
+199,1,3,"Madigan Miss Margaret ""Maggie""",0,54,0,0,162920,775,30141,111
+200,0,2,"Yrois Miss Henriette (""Mrs Harbeck"")",0,62,0,0,613403,13,10113,333
+201,0,3,Vande Walle Mr Nestor Cyriel,1,21,0,0,288822,95,30126,333
+202,0,3,Sage Mr Frederick,1,31,8,2,901932,6955,20115,333
+203,0,3,Johanson Mr Jakob Alfred,1,59,0,0,231119,64958,30114,333
+204,0,3,Youseff Mr Gerious,1,35,0,0,689845,7225,30123,222
+205,1,3,"Cohen Mr Gurshon ""Gus""",1,49,0,0,956052,805,10100,333
+206,0,3,Strom Miss Telma Matilda,0,35,0,1,229371,104625,10106,333
+207,0,3,Backstrom Mr Karl Alfred,1,54,1,0,791097,1585,20135,333
+208,1,3,Albimona Mr Nassef Cassem,1,30,0,0,691160,187875,10131,222
+209,1,3,"Carr Miss Helen ""Ellen""",0,63,0,0,980548,775,20107,111
+210,1,1,Blank Mr Henry,1,26,0,0,830278,31,30126,222
+211,0,3,Ali Mr Ahmed,1,35,0,0,251384,705,10138,333
+212,1,2,Cameron Miss Clear Annie,0,59,0,0,794265,21,20131,333
+213,0,3,Perkin Mr John Henry,1,57,0,0,680648,725,10114,333
+214,0,2,Givard Mr Hans Kristensen,1,28,0,0,184373,13,20129,333
+215,0,3,Kiernan Mr Philip,1,33,1,0,802568,775,20115,111
+216,1,1,Newell Miss Madeleine,0,46,1,0,628006,113275,20134,222
+217,1,3,Honkanen Miss Eliina,0,33,0,0,457349,7925,20148,333
+218,0,2,Jacobsohn Mr Sidney Samuel,1,37,1,0,774396,27,30103,333
+219,1,1,Bazzani Miss Albina,0,24,0,0,293547,762917,30146,222
+220,0,2,Harris Mr Walter,1,41,0,0,269640,105,30123,333
+221,1,3,Sunderland Mr Victor Francis,1,62,0,0,142673,805,30133,333
+222,0,2,Bracken Mr James H,1,26,0,0,143894,13,30112,333
+223,0,3,Green Mr George Henry,1,57,0,0,721810,805,30108,333
+224,0,3,Nenkoff Mr Christo,1,25,0,0,430917,78958,10133,333
+225,1,1,Hoyt Mr Frederick Maxfield,1,44,1,0,571044,90,10150,333
+226,0,3,Berglund Mr Karl Ivar Sven,1,59,0,0,613817,935,30148,333
+227,1,2,Mellors Mr William John,1,23,0,0,972474,105,10137,333
+228,0,3,"Lovell Mr John Hall (""Henry"")",1,58,0,0,672451,725,20119,333
+229,0,2,Fahlstrom Mr Arne Jonas,1,48,0,0,325548,13,20141,333
+230,0,3,Lefebre Miss Mathilde,0,59,3,1,743886,254667,30120,333
+231,1,1,Harris Mrs Henry Birkhardt (Irene Wallach),0,41,1,0,985253,83475,10105,333
+232,0,3,Larsson Mr Bengt Edvin,1,41,0,0,863596,7775,20133,333
+233,0,2,Sjostedt Mr Ernst Adolf,1,64,0,0,108355,135,30140,333
+234,1,3,Asplund Miss Lillian Gertrud,0,52,4,2,735151,313875,30135,333
+235,0,2,Leyson Mr Robert William Norman,1,56,0,0,703751,105,20125,333
+236,0,3,Harknett Miss Alice Phoebe,0,51,0,0,751519,755,20125,333
+237,0,2,Hold Mr Stephen,1,31,1,0,624897,26,20101,333
+238,1,2,"Collyer Miss Marjorie ""Lottie""",0,43,0,2,823341,2625,10124,333
+239,0,2,Pengelly Mr Frederick William,1,25,0,0,560863,105,30103,333
+240,0,2,Hunt Mr George Henry,1,42,0,0,133101,12275,10128,333
+241,0,3,Zabour Miss Thamine,0,44,1,0,988932,144542,20102,222
+242,1,3,"Murphy Miss Katherine ""Kate""",0,45,1,0,180345,155,30114,111
+243,0,2,Coleridge Mr Reginald Charles,1,56,0,0,228096,105,20125,333
+244,0,3,Maenpaa Mr Matti Alexanteri,1,42,0,0,193368,7125,10123,333
+245,0,3,Attalah Mr Sleiman,1,22,0,0,663892,7225,20112,222
+246,0,1,Minahan Dr William Edward,1,57,2,0,469307,90,10126,111
+247,0,3,Lindahl Miss Agda Thorilda Viktoria,0,33,0,0,536668,7775,20106,333
+248,1,2,Hamalainen Mrs William (Anna),0,27,0,2,641300,145,30146,333
+249,1,1,Beckwith Mr Richard Leonard,1,46,1,1,852264,525542,30132,333
+250,0,2,Carter Rev Ernest Courtenay,1,34,1,0,701070,26,20100,333
+251,0,3,Reed Mr James George,1,22,0,0,791636,725,10150,333
+252,0,3,Strom Mrs Wilhelm (Elna Matilda Persson),0,43,1,1,710842,104625,10114,333
+253,0,1,Stead Mr William Thomas,1,63,0,0,670849,2655,30108,333
+254,0,3,Lobb Mr William Arthur,1,55,1,0,833106,161,10113,333
+255,0,3,Rosblom Mrs Viktor (Helena Wilhelmina),0,33,0,2,557292,202125,30104,333
+256,1,3,Touma Mrs Darwis (Hanne Youssef Razi),0,43,0,2,440020,152458,30111,222
+257,1,1,Thorne Mrs Gertrude Maybelle,0,45,0,0,887763,792,20142,222
+258,1,1,Cherry Miss Gladys,0,40,0,0,635134,865,30126,333
+259,1,1,Ward Miss Anna,0,29,0,0,898558,5123292,10145,222
+260,1,2,Parrish Mrs (Lutie Davis),0,33,0,1,276704,26,30105,333
+261,0,3,Smith Mr Thomas,1,57,0,0,635062,775,10120,111
+262,1,3,Asplund Master Edvin Rojj Felix,1,27,4,2,205679,313875,30120,333
+263,0,1,Taussig Mr Emil,1,57,1,1,327458,7965,30115,333
+264,0,1,Harrison Mr William,1,65,0,0,481881,0,20143,333
+265,0,3,Henry Miss Delia,0,23,0,0,195731,775,20123,111
+266,0,2,Reeves Mr David,1,22,0,0,955036,105,10124,333
+267,0,3,Panula Mr Ernesti Arvid,1,46,4,1,293886,396875,10121,333
+268,1,3,Persson Mr Ernst Ulrik,1,61,1,0,354528,7775,20118,333
+269,1,1,Graham Mrs William Thompson (Edith Junkins),0,22,0,1,295904,1534625,30130,333
+270,1,1,Bissette Miss Amelia,0,51,0,0,761827,1356333,30122,333
+271,0,1,Cairns Mr Alexander,1,52,0,0,723179,31,10136,333
+272,1,3,Tornquist Mr William Henry,1,28,0,0,750071,0,20133,333
+273,1,2,Mellinger Mrs (Elizabeth Anne Maidment),0,55,0,1,505771,195,10101,333
+274,0,1,Natsch Mr Charles H,1,26,0,1,819183,297,30115,222
+275,1,3,"Healy Miss Hanora ""Nora""",0,23,0,0,693798,775,30112,111
+276,1,1,Andrews Miss Kornelia Theodosia,0,65,1,0,325888,779583,10118,333
+277,0,3,Lindblom Miss Augusta Charlotta,0,33,0,0,823420,775,30146,333
+278,0,2,"Parkes Mr Francis ""Frank""",1,52,0,0,623226,0,10127,333
+279,0,3,Rice Master Eric,1,31,4,1,170350,29125,20113,111
+280,1,3,Abbott Mrs Stanton (Rosa Hunt),0,62,1,1,678695,2025,10142,333
+281,0,3,Duane Mr Frank,1,62,0,0,748538,775,20114,111
+282,0,3,Olsson Mr Nils Johan Goransson,1,54,0,0,991432,78542,20129,333
+283,0,3,de Pelsmaeker Mr Alfons,1,35,0,0,779020,95,20108,333
+284,1,3,Dorking Mr Edward Arthur,1,63,0,0,363611,805,10138,333
+285,0,1,Smith Mr Richard William,1,41,0,0,801571,26,10116,333
+286,0,3,Stankovic Mr Ivan,1,35,0,0,854323,86625,20130,222
+287,1,3,de Mulder Mr Theodore,1,43,0,0,900038,95,10114,333
+288,0,3,Naidenoff Mr Penko,1,35,0,0,175445,78958,10118,333
+289,1,2,Hosono Mr Masabumi,1,43,0,0,629011,13,20141,333
+290,1,3,Connolly Miss Kate,0,37,0,0,710198,775,20118,111
+291,1,1,"Barber Miss Ellen ""Nellie""",0,46,0,0,603016,7885,30120,333
+292,1,1,Bishop Mrs Dickinson H (Helen Walton),0,65,1,0,309735,910792,20130,222
+293,0,2,Levy Mr Rene Jacques,1,53,0,0,978997,12875,20105,222
+294,0,3,Haas Miss Aloisia,0,61,0,0,733596,885,30113,333
+295,0,3,Mineff Mr Ivan,1,30,0,0,352278,78958,10112,333
+296,0,1,Lewy Mr Ervin G,1,61,0,0,689414,277208,30110,222
+297,0,3,Hanna Mr Mansour,1,56,0,0,203421,72292,20148,222
+298,0,1,Allison Miss Helen Loraine,0,29,1,2,800139,15155,10108,333
+299,1,1,Saalfeld Mr Adolphe,1,44,0,0,997835,305,20125,333
+300,1,1,Baxter Mrs James (Helene DeLaudeniere Chaput),0,38,0,1,541430,2475208,30138,222
+301,1,3,"Kelly Miss Anna Katherine ""Annie Kate""",0,21,0,0,249525,775,30137,111
+302,1,3,McCoy Mr Bernard,1,47,2,0,937192,2325,30111,111
+303,0,3,Johnson Mr William Cahoone Jr,1,52,0,0,512164,0,10104,333
+304,1,2,Keane Miss Nora A,0,33,0,0,574285,1235,20113,111
+305,0,3,"Williams Mr Howard Hugh ""Harry""",1,20,0,0,440060,805,20129,333
+306,1,1,Allison Master Hudson Trevor,1,34,1,2,542944,15155,10124,333
+307,1,1,Fleming Miss Margaret,0,24,0,0,744295,1108833,30112,222
+308,1,1,Penasco y Castellana Mrs Victor de Satode (Maria Josefa Perez de Soto y Vallejo),0,22,1,0,722592,1089,20116,222
+309,0,2,Abelson Mr Samuel,1,58,1,0,501975,24,20142,222
+310,1,1,Francatelli Miss Laura Mabel,0,44,0,0,489782,569292,30148,222
+311,1,1,Hays Miss Margaret Bechstein,0,36,0,0,844692,831583,10129,222
+312,1,1,Ryerson Miss Emily Borie,0,61,2,2,666288,262375,30135,222
+313,0,2,Lahtinen Mrs William (Anna Sylfven),0,46,1,1,755916,26,10149,333
+314,0,3,Hendekovic Mr Ignjac,1,63,0,0,485169,78958,10122,333
+315,0,2,Hart Mr Benjamin,1,60,1,1,940196,2625,10122,333
+316,1,3,Nilsson Miss Helmina Josefina,0,44,0,0,658413,78542,20124,333
+317,1,2,Kantor Mrs Sinai (Miriam Sternin),0,44,1,0,783785,26,10111,333
+318,0,2,Moraweck Dr Ernest,1,47,0,0,494021,14,10144,333
+319,1,1,Wick Miss Mary Natalie,0,44,0,2,426507,1648667,30130,333
+320,1,1,Spedden Mrs Frederic Oakley (Margaretta Corning Stone),0,53,1,1,114035,1345,30118,222
+321,0,3,Dennis Mr Samuel,1,58,0,0,743370,725,10116,333
+322,0,3,Danoff Mr Yoto,1,21,0,0,560741,78958,20124,333
+323,1,2,Slayter Miss Hilda Mary,0,53,0,0,143283,1235,10141,111
+324,1,2,Caldwell Mrs Albert Francis (Sylvia Mae Harbaugh),0,62,1,1,580224,29,30106,333
+325,0,3,Sage Mr George John Jr,1,28,8,2,818495,6955,20143,333
+326,1,1,Young Miss Marie Grice,0,21,0,0,667233,1356333,20117,222
+327,0,3,Nysveen Mr Johan Hansen,1,46,0,0,702074,62375,30118,333
+328,1,2,Ball Mrs (Ada E Hall),0,55,0,0,813079,13,30122,333
+329,1,3,Goldsmith Mrs Frank John (Emily Alice Brown),0,22,1,1,210825,20525,20143,333
+330,1,1,Hippach Miss Jean Gertrude,0,35,0,1,741206,579792,20108,222
+331,1,3,McCoy Miss Agnes,0,27,2,0,830908,2325,30118,111
+332,0,1,Partner Mr Austen,1,24,0,0,382741,285,10117,333
+333,0,1,Graham Mr George Edward,1,63,0,1,558553,1534625,10141,333
+334,0,3,Vander Planke Mr Leo Edmondus,1,49,2,0,810054,18,30108,333
+335,1,1,Frauenthal Mrs Henry William (Clara Heinsheimer),0,37,1,0,127206,13365,10109,333
+336,0,3,Denkoff Mr Mitto,1,59,0,0,590184,78958,20139,333
+337,0,1,Pears Mr Thomas Clinton,1,20,1,0,456036,666,20142,333
+338,1,1,Burns Miss Elizabeth Margaret,0,61,0,0,543186,1345,10133,222
+339,1,3,Dahl Mr Karl Edwart,1,23,0,0,409169,805,20108,333
+340,0,1,Blackwell Mr Stephen Weart,1,29,0,0,673923,355,10144,333
+341,1,2,Navratil Master Edmond Roger,1,56,1,1,780912,26,10150,333
+342,1,1,Fortune Miss Alice Elizabeth,0,62,3,2,253402,263,20104,333
+343,0,2,Collander Mr Erik Gustaf,1,21,0,0,720796,13,10102,333
+344,0,2,Sedgwick Mr Charles Frederick Waddington,1,24,0,0,199873,13,10103,333
+345,0,2,Fox Mr Stanley Hubert,1,42,0,0,239017,13,10148,333
+346,1,2,"Brown Miss Amelia ""Mildred""",0,57,0,0,300871,13,20132,333
+347,1,2,Smith Miss Marion Elsie,0,29,0,0,206564,13,10112,333
+348,1,3,Davison Mrs Thomas Henry (Mary E Finck),0,26,1,0,246430,161,30117,333
+349,1,3,"Coutts Master William Loch ""William""",1,32,1,1,544961,159,30145,333
+350,0,3,Dimic Mr Jovan,1,43,0,0,558019,86625,20142,333
+351,0,3,Odahl Mr Nils Martin,1,61,0,0,440173,9225,30131,333
+352,0,1,Williams-Lambert Mr Fletcher Fellows,1,49,0,0,665235,35,20107,333
+353,0,3,Elias Mr Tannous,1,21,1,1,284546,72292,30148,222
+354,0,3,Arnold-Franchi Mr Josef,1,47,1,0,961418,178,10129,333
+355,0,3,Yousif Mr Wazli,1,43,0,0,652336,7225,30142,222
+356,0,3,Vanden Steen Mr Leo Peter,1,37,0,0,172051,95,20137,333
+357,1,1,Bowerman Miss Elsie Edith,0,44,0,1,662059,55,10113,333
+358,0,2,Funk Miss Annie Clemmer,0,43,0,0,272501,13,20116,333
+359,1,3,McGovern Miss Mary,0,58,0,0,120969,78792,10138,111
+360,1,3,"Mockler Miss Helen Mary ""Ellie""",0,29,0,0,732008,78792,10103,111
+361,0,3,Skoog Mr Wilhelm,1,62,1,4,416096,279,10108,333
+362,0,2,del Carlo Mr Sebastiano,1,46,1,0,730812,277208,20115,222
+363,0,3,Barbara Mrs (Catherine David),0,48,0,1,702903,144542,20131,222
+364,0,3,Asim Mr Adola,1,43,0,0,146605,705,10118,333
+365,0,3,O'Brien Mr Thomas,1,53,1,0,570425,155,20112,111
+366,0,3,Adahl Mr Mauritz Nils Martin,1,42,0,0,240858,725,20120,333
+367,1,1,Warren Mrs Frank Manley (Anna Sophia Atkinson),0,23,1,0,538233,7525,30115,222
+368,1,3,Moussa Mrs (Mantoura Boulos),0,49,0,0,536516,72292,10129,222
+369,1,3,Jermyn Miss Annie,0,48,0,0,325327,775,10118,111
+370,1,1,Aubart Mme Leontine Pauline,0,34,0,0,514705,693,10115,222
+371,1,1,Harder Mr George Achilles,1,43,1,0,114841,554417,20114,222
+372,0,3,Wiklund Mr Jakob Alfred,1,27,1,0,241292,64958,10120,333
+373,0,3,Beavan Mr William Thomas,1,23,0,0,615189,805,10101,333
+374,0,1,Ringhini Mr Sante,1,51,0,0,846446,1356333,30136,222
+375,0,3,Palsson Miss Stina Viola,0,47,3,1,485582,21075,30144,333
+376,1,1,Meyer Mrs Edgar Joseph (Leila Saks),0,33,1,0,395412,821708,30132,222
+377,1,3,Landergren Miss Aurora Adelia,0,25,0,0,946452,725,20123,333
+378,0,1,Widener Mr Harry Elkins,1,27,0,2,592636,2115,30102,222
+379,0,3,Betros Mr Tannous,1,53,0,0,705105,40125,10145,222
+380,0,3,Gustafsson Mr Karl Gideon,1,61,0,0,311853,7775,30111,333
+381,1,1,Bidois Miss Rosalie,0,53,0,0,788872,227525,10123,222
+382,1,3,"Nakid Miss Maria (""Mary"")",0,53,0,2,758399,157417,30124,222
+383,0,3,Tikkanen Mr Juho,1,61,0,0,393796,7925,20120,333
+384,1,1,Holverson Mrs Alexander Oskar (Mary Aline Towner),0,32,1,0,508221,52,10108,333
+385,0,3,Plotcharsky Mr Vasil,1,41,0,0,944187,78958,10103,333
+386,0,2,Davies Mr Charles Henry,1,53,0,0,124250,735,10132,333
+387,0,3,Goodwin Master Sidney Leonard,1,36,5,2,289872,469,20150,333
+388,1,2,Buss Miss Kate,0,50,0,0,684082,13,30150,333
+389,0,3,Sadlier Mr Matthew,1,25,0,0,731287,77292,10130,111
+390,1,2,Lehmann Miss Bertha,0,36,0,0,654967,12,10114,222
+391,1,1,Carter Mr William Ernest,1,48,1,2,562701,120,30112,333
+392,1,3,Jansson Mr Carl Olof,1,20,0,0,407497,77958,10104,333
+393,0,3,Gustafsson Mr Johan Birger,1,54,2,0,517385,7925,30114,333
+394,1,1,Newell Miss Marjorie,0,61,1,0,565919,113275,10111,222
+395,1,3,Sandstrom Mrs Hjalmar (Agnes Charlotta Bengtsson),0,37,0,2,435680,167,20119,333
+396,0,3,Johansson Mr Erik,1,31,0,0,560929,77958,30123,333
+397,0,3,Olsson Miss Elina,0,60,0,0,220374,78542,20108,333
+398,0,2,McKane Mr Peter David,1,20,0,0,207215,26,30113,333
+399,0,2,Pain Dr Alfred,1,32,0,0,690367,105,30112,333
+400,1,2,Trout Mrs William H (Jessie L),0,38,0,0,525714,1265,10144,333
+401,1,3,Niskanen Mr Juha,1,24,0,0,608946,7925,20125,333
+402,0,3,Adams Mr John,1,44,0,0,290123,805,10110,333
+403,0,3,Jussila Miss Mari Aina,0,34,1,0,353781,9825,20111,333
+404,0,3,Hakkarainen Mr Pekka Pietari,1,62,1,0,319458,1585,30138,333
+405,0,3,Oreskovic Miss Marija,0,27,0,0,516171,86625,20130,333
+406,0,2,Gale Mr Shadrach,1,25,1,0,593567,21,20126,333
+407,0,3,Widegren Mr Carl/Charles Peter,1,30,0,0,216325,775,30118,333
+408,1,2,Richards Master William Rowe,1,36,1,1,647558,1875,30150,333
+409,0,3,Birkeland Mr Hans Martin Monsen,1,47,0,0,943237,7775,10110,333
+410,0,3,Lefebre Miss Ida,0,40,3,1,404671,254667,10138,333
+411,0,3,Sdycoff Mr Todor,1,53,0,0,241656,78958,10131,333
+412,0,3,Hart Mr Henry,1,24,0,0,146450,68583,20134,111
+413,1,1,Minahan Miss Daisy E,0,45,1,0,615672,90,30120,111
+414,0,2,Cunningham Mr Alfred Fleming,1,42,0,0,146498,0,30116,333
+415,1,3,Sundman Mr Johan Julian,1,28,0,0,283789,7925,10134,333
+416,0,3,Meek Mrs Thomas (Annie Louise Rowley),0,26,0,0,299386,805,30139,333
+417,1,2,Drew Mrs James Vivian (Lulu Thorne Christian),0,54,1,1,583980,325,20106,333
+418,1,2,Silven Miss Lyyli Karoliina,0,44,0,2,479243,13,20103,333
+419,0,2,Matthews Mr William John,1,62,0,0,940633,13,10147,333
+420,0,3,Van Impe Miss Catharina,0,41,0,2,752936,2415,20134,333
+421,0,3,Gheorgheff Mr Stanio,1,58,0,0,904948,78958,10140,222
+422,0,3,Charters Mr David,1,35,0,0,684656,77333,30129,111
+423,0,3,Zimmerman Mr Leo,1,25,0,0,454386,7875,10116,333
+424,0,3,Danbom Mrs Ernst Gilbert (Anna Sigrid Maria Brogren),0,26,1,1,379221,144,10109,333
+425,0,3,Rosblom Mr Viktor Richard,1,65,1,1,751525,202125,20105,333
+426,0,3,Wiseman Mr Phillippe,1,55,0,0,724867,725,20121,333
+427,1,2,Clarke Mrs Charles V (Ada Maria Winfield),0,54,1,0,622936,26,30119,333
+428,1,2,"Phillips Miss Kate Florence (""Mrs Kate Louise Phillips Marshall"")",0,63,0,0,837365,26,20143,333
+429,0,3,Flynn Mr James,1,38,0,0,929656,775,30150,111
+430,1,3,Pickard Mr Berk (Berk Trembisky),1,50,0,0,966407,805,20115,333
+431,1,1,Bjornstrom-Steffansson Mr Mauritz Hakan,1,40,0,0,483904,2655,30112,333
+432,1,3,Thorneycroft Mrs Percival (Florence Kate White),0,43,1,0,301856,161,30113,333
+433,1,2,Louch Mrs Charles Alexander (Alice Adelaide Slow),0,45,1,0,449910,26,10133,333
+434,0,3,Kallio Mr Nikolai Erland,1,62,0,0,579757,7125,20112,333
+435,0,1,Silvey Mr William Baird,1,51,1,0,555152,559,10134,333
+436,1,1,Carter Miss Lucile Polk,0,40,1,2,499559,120,30145,333
+437,0,3,"Ford Miss Doolina Margaret ""Daisy""",0,64,2,2,895723,34375,10134,333
+438,1,2,Richards Mrs Sidney (Emily Hocking),0,63,2,3,578865,1875,10112,333
+439,0,1,Fortune Mr Mark,1,39,1,4,640729,263,30119,333
+440,0,2,Kvillner Mr Johan Henrik Johannesson,1,23,0,0,878147,105,20118,333
+441,1,2,Hart Mrs Benjamin (Esther Ada Bloomfield),0,45,1,1,333854,2625,30140,333
+442,0,3,Hampe Mr Leon,1,51,0,0,494824,95,10114,333
+443,0,3,Petterson Mr Johan Emil,1,28,1,0,674485,7775,20103,333
+444,1,2,Reynaldo Ms Encarnacion,0,46,0,0,694688,13,20117,333
+445,1,3,Johannesen-Bratthammer Mr Bernt,1,29,0,0,524318,81125,20138,333
+446,1,1,Dodge Master Washington,1,37,0,2,730351,818583,10120,333
+447,1,2,Mellinger Miss Madeleine Violet,0,26,0,1,619547,195,10104,333
+448,1,1,Seward Mr Frederic Kimber,1,53,0,0,587586,2655,10149,333
+449,1,3,Baclini Miss Marie Catherine,0,51,2,1,715564,192583,30131,222
+450,1,1,Peuchen Major Arthur Godfrey,1,35,0,0,497839,305,30145,333
+451,0,2,West Mr Edwy Arthur,1,53,1,2,578029,2775,20145,333
+452,0,3,Hagland Mr Ingvald Olai Olsen,1,28,1,0,484676,199667,30113,333
+453,0,1,Foreman Mr Benjamin Laventall,1,52,0,0,807183,2775,30131,222
+454,1,1,Goldenberg Mr Samuel L,1,37,1,0,757647,891042,30115,222
+455,0,3,Peduzzi Mr Joseph,1,27,0,0,503433,805,30149,333
+456,1,3,Jalsevac Mr Ivan,1,29,0,0,161756,78958,30147,222
+457,0,1,Millet Mr Francis Davis,1,64,0,0,742515,2655,30147,333
+458,1,1,Kenyon Mrs Frederick R (Marion),0,57,1,0,462849,518625,10125,333
+459,1,2,Toomey Miss Ellen,0,60,0,0,521673,105,10128,333
+460,0,3,O'Connor Mr Maurice,1,38,0,0,974886,775,30140,111
+461,1,1,Anderson Mr Harry,1,50,0,0,967737,2655,10125,333
+462,0,3,Morley Mr William,1,56,0,0,669316,805,10143,333
+463,0,1,Gee Mr Arthur H,1,29,0,0,800477,385,20140,333
+464,0,2,Milling Mr Jacob Christian,1,31,0,0,818523,13,10110,333
+465,0,3,Maisner Mr Simon,1,20,0,0,338376,805,10147,333
+466,0,3,Goncalves Mr Manuel Estanslas,1,64,0,0,914780,705,10110,333
+467,0,2,Campbell Mr William,1,27,0,0,276303,0,10143,333
+468,0,1,Smart Mr John Montgomery,1,27,0,0,755021,2655,10121,333
+469,0,3,Scanlan Mr James,1,53,0,0,172669,7725,30106,111
+470,1,3,Baclini Miss Helene Barbara,0,37,2,1,921931,192583,20126,222
+471,0,3,Keefe Mr Arthur,1,39,0,0,551623,725,10135,333
+472,0,3,Cacic Mr Luka,1,48,0,0,969417,86625,30119,333
+473,1,2,West Mrs Edwy Arthur (Ada Mary Worth),0,49,1,2,867302,2775,20141,333
+474,1,2,Jerwan Mrs Amin S (Marie Marthe Thuillard),0,55,0,0,426634,137917,30105,222
+475,0,3,Strandberg Miss Ida Sofia,0,42,0,0,847890,98375,30103,333
+476,0,1,Clifford Mr George Quincy,1,59,0,0,978168,52,20125,333
+477,0,2,Renouf Mr Peter Henry,1,47,1,0,196327,21,30127,333
+478,0,3,Braund Mr Lewis Richard,1,31,1,0,239483,70458,10128,333
+479,0,3,Karlsson Mr Nils August,1,53,0,0,663855,75208,30146,333
+480,1,3,Hirvonen Miss Hildur E,0,48,0,1,596555,122875,10136,333
+481,0,3,Goodwin Master Harold Victor,1,49,5,2,263564,469,30103,333
+482,0,2,"Frost Mr Anthony Wood ""Archie""",1,31,0,0,248370,0,20106,333
+483,0,3,Rouse Mr Richard Henry,1,22,0,0,616953,805,20116,333
+484,1,3,Turkula Mrs (Hedwig),0,38,0,0,699705,95875,30107,333
+485,1,1,Bishop Mr Dickinson H,1,37,1,0,478535,910792,20120,222
+486,0,3,Lefebre Miss Jeannie,0,50,3,1,526312,254667,10147,333
+487,1,1,Hoyt Mrs Frederick Maxfield (Jane Anne Forby),0,61,1,0,482874,90,10111,333
+488,0,1,Kent Mr Edward Austin,1,55,0,0,675009,297,10125,222
+489,0,3,Somerton Mr Francis William,1,42,0,0,386227,805,20134,333
+490,1,3,"Coutts Master Eden Leslie ""Neville""",1,22,1,1,395621,159,30149,333
+491,0,3,Hagland Mr Konrad Mathias Reiersen,1,40,1,0,479995,199667,30124,333
+492,0,3,Windelov Mr Einar,1,26,0,0,447085,725,10103,333
+493,0,1,Molson Mr Harry Markland,1,55,0,0,377347,305,10110,333
+494,0,1,Artagaveytia Mr Ramon,1,35,0,0,231441,495042,20111,222
+495,0,3,Stanley Mr Edward Roland,1,60,0,0,521727,805,10104,333
+496,0,3,Yousseff Mr Gerious,1,63,0,0,381487,144583,10141,222
+497,1,1,Eustis Miss Elizabeth Mussey,0,50,1,0,749103,782667,20139,222
+498,0,3,Shellard Mr Frederick William,1,31,0,0,863257,151,20127,333
+499,0,1,Allison Mrs Hudson J C (Bessie Waldo Daniels),0,40,1,2,168783,15155,10135,333
+500,0,3,Svensson Mr Olof,1,48,0,0,524603,77958,10143,333
+501,0,3,Calic Mr Petar,1,55,0,0,906641,86625,20139,333
+502,0,3,Canavan Miss Mary,0,51,0,0,717468,775,20107,111
+503,0,3,O'Sullivan Miss Bridget Mary,0,49,0,0,236387,76292,30102,111
+504,0,3,Laitinen Miss Kristina Sofia,0,27,0,0,538284,95875,30115,333
+505,1,1,Maioni Miss Roberta,0,25,0,0,792559,865,30106,333
+506,0,1,Penasco y Castellana Mr Victor de Satode,1,24,1,0,769786,1089,30115,222
+507,1,2,Quick Mrs Frederick Charles (Jane Richards),0,55,0,2,244801,26,20112,333
+508,1,1,"Bradley Mr George (""George Arthur Brayton"")",1,49,0,0,161448,2655,10107,333
+509,0,3,Olsen Mr Henry Margido,1,30,0,0,895977,22525,30102,333
+510,1,3,Lang Mr Fang,1,54,0,0,692570,564958,20132,333
+511,1,3,Daly Mr Eugene Patrick,1,57,0,0,489994,775,20103,111
+512,0,3,Webber Mr James,1,49,0,0,176365,805,30137,333
+513,1,1,McGough Mr James Robert,1,42,0,0,899526,262875,20123,333
+514,1,1,Rothschild Mrs Martin (Elizabeth L Barrett),0,34,1,0,361386,594,20146,222
+515,0,3,Coleff Mr Satio,1,37,0,0,231758,74958,20122,333
+516,0,1,Walker Mr William Anderson,1,57,0,0,119000,340208,20135,333
+517,1,2,Lemore Mrs (Amelia Milley),0,44,0,0,645674,105,30145,333
+518,0,3,Ryan Mr Patrick,1,37,0,0,998036,2415,30148,111
+519,1,2,"Angle Mrs William A (Florence ""Mary"" Agnes Hughes)",0,53,1,0,284251,26,30129,333
+520,0,3,Pavlovic Mr Stefo,1,35,0,0,705336,78958,20124,333
+521,1,1,Perreault Miss Anne,0,29,0,0,392727,935,30146,333
+522,0,3,Vovk Mr Janko,1,60,0,0,956231,78958,20143,333
+523,0,3,Lahoud Mr Sarkis,1,57,0,0,671130,7225,20125,222
+524,1,1,Hippach Mrs Louis Albert (Ida Sophia Fischer),0,25,0,1,991639,579792,30132,222
+525,0,3,Kassem Mr Fared,1,40,0,0,728607,72292,10147,222
+526,0,3,Farrell Mr James,1,29,0,0,378343,775,20115,111
+527,1,2,Ridsdale Miss Lucy,0,53,0,0,198636,105,20102,333
+528,0,1,Farthing Mr John,1,24,0,0,880383,2217792,30120,333
+529,0,3,Salonen Mr Johan Werner,1,61,0,0,199712,7925,10137,333
+530,0,2,Hocking Mr Richard George,1,31,2,1,373132,115,10145,333
+531,1,2,Quick Miss Phyllis May,0,33,1,1,172051,26,30100,333
+532,0,3,Toufik Mr Nakli,1,29,0,0,266387,72292,10114,222
+533,0,3,Elias Mr Joseph Jr,1,24,1,1,766091,72292,20139,222
+534,1,3,Peter Mrs Catherine (Catherine Rizk),0,30,0,2,876971,223583,20128,222
+535,0,3,Cacic Miss Marija,0,54,0,0,776158,86625,20132,333
+536,1,2,Hart Miss Eva Miriam,0,61,0,2,298054,2625,10142,333
+537,0,1,Butt Major Archibald Willingham,1,37,0,0,744495,2655,10135,333
+538,1,1,LeRoy Miss Bertha,0,55,0,0,873875,106425,30139,222
+539,0,3,Risien Mr Samuel Beard,1,63,0,0,331308,145,10135,333
+540,1,1,Frolicher Miss Hedwig Margaritha,0,44,0,2,556360,495,10129,222
+541,1,1,Crosby Miss Harriet R,0,22,0,2,137448,71,10127,333
+542,0,3,Andersson Miss Ingeborg Constanzia,0,29,4,2,961203,31275,10141,333
+543,0,3,Andersson Miss Sigrid Elisabeth,0,53,4,2,521467,31275,10132,333
+544,1,2,Beane Mr Edward,1,48,1,0,163852,26,10145,333
+545,0,1,Douglas Mr Walter Donald,1,41,1,0,424809,106425,20149,222
+546,0,1,Nicholson Mr Arthur Ernest,1,46,0,0,322318,26,30137,333
+547,1,2,Beane Mrs Edward (Ethel Clarke),0,25,1,0,978770,26,20131,333
+548,1,2,Padro y Manent Mr Julian,1,61,0,0,822933,138625,10112,222
+549,0,3,Goldsmith Mr Frank John,1,25,1,1,340167,20525,20120,333
+550,1,2,Davies Master John Morgan Jr,1,38,1,1,545189,3675,20134,333
+551,1,1,Thayer Mr John Borland Jr,1,33,0,2,281493,1108833,30105,222
+552,0,2,Sharp Mr Percival James R,1,33,0,0,536087,26,30132,333
+553,0,3,O'Brien Mr Timothy,1,55,0,0,708994,78292,10150,111
+554,1,3,"Leeni Mr Fahim (""Philip Zenni"")",1,28,0,0,489405,7225,10119,222
+555,1,3,Ohman Miss Velin,0,54,0,0,401404,7775,10109,333
+556,0,1,Wright Mr George,1,20,0,0,526850,2655,30143,333
+557,1,1,"Duff Gordon Lady (Lucille Christiana Sutherland) (""Mrs Morgan"")",0,52,1,0,479794,396,30133,222
+558,0,1,Robbins Mr Victor,1,28,0,0,862086,227525,10108,222
+559,1,1,Taussig Mrs Emil (Tillie Mandelbaum),0,65,1,1,438170,7965,10131,333
+560,1,3,de Messemaeker Mrs Guillaume Joseph (Emma),0,37,1,0,614584,174,10111,333
+561,0,3,Morrow Mr Thomas Rowan,1,35,0,0,813389,775,20129,111
+562,0,3,Sivic Mr Husein,1,54,0,0,568299,78958,10123,333
+563,0,2,Norman Mr Robert Douglas,1,31,0,0,915126,135,30109,333
+564,0,3,Simmons Mr John,1,35,0,0,179976,805,30128,333
+565,0,3,Meanwell Miss (Marion Ogden),0,25,0,0,694249,805,20122,333
+566,0,3,Davies Mr Alfred J,1,36,2,0,722422,2415,30149,333
+567,0,3,Stoytcheff Mr Ilia,1,33,0,0,700222,78958,20105,333
+568,0,3,Palsson Mrs Nils (Alma Cornelia Berglund),0,23,0,4,808284,21075,10109,333
+569,0,3,Doharr Mr Tannous,1,57,0,0,110063,72292,20149,222
+570,1,3,Jonsson Mr Carl,1,36,0,0,982547,78542,20124,333
+571,1,2,Harris Mr George,1,55,0,0,474280,105,30140,333
+572,1,1,Appleton Mrs Edward Dale (Charlotte Lamson),0,62,2,0,933587,514792,10126,333
+573,1,1,"Flynn Mr John Irwin (""Irving"")",1,49,0,0,398769,263875,10150,333
+574,1,3,Kelly Miss Mary,0,63,0,0,374239,775,30116,111
+575,0,3,Rush Mr Alfred George John,1,28,0,0,400891,805,20105,333
+576,0,3,Patchett Mr George,1,53,0,0,146510,145,30142,333
+577,1,2,Garside Miss Ethel,0,34,0,0,178520,13,30102,333
+578,1,1,Silvey Mrs William Baird (Alice Munger),0,48,1,0,149448,559,10133,333
+579,0,3,Caram Mrs Joseph (Maria Elias),0,37,1,0,707940,144583,20146,222
+580,1,3,Jussila Mr Eiriik,1,53,0,0,332159,7925,10118,333
+581,1,2,Christy Miss Julie Rachel,0,27,1,1,964100,30,30122,333
+582,1,1,Thayer Mrs John Borland (Marian Longstreth Morris),0,24,1,1,301823,1108833,10125,222
+583,0,2,Downton Mr William James,1,65,0,0,706412,26,30146,333
+584,0,1,Ross Mr John Hugo,1,63,0,0,937359,40125,30131,222
+585,0,3,Paulner Mr Uscher,1,46,0,0,586701,87125,20118,222
+586,1,1,Taussig Miss Ruth,0,25,0,2,976535,7965,10148,333
+587,0,2,Jarvis Mr John Denzil,1,43,0,0,453268,15,20135,333
+588,1,1,Frolicher-Stehli Mr Maxmillian,1,39,1,1,860306,792,10102,222
+589,0,3,Gilinski Mr Eliezer,1,54,0,0,331447,805,20131,333
+590,0,3,Murdlin Mr Joseph,1,23,0,0,858525,805,20136,333
+591,0,3,Rintamaki Mr Matti,1,65,0,0,646049,7125,20105,333
+592,1,1,Stephenson Mrs Walter Bertram (Martha Eustis),0,33,1,0,197252,782667,20134,222
+593,0,3,Elsbury Mr William James,1,35,0,0,764073,725,20136,333
+594,0,3,Bourke Miss Mary,0,35,0,2,162616,775,30113,111
+595,0,2,Chapman Mr John Henry,1,56,1,0,188914,26,30150,333
+596,0,3,Van Impe Mr Jean Baptiste,1,21,1,1,206418,2415,30125,333
+597,1,2,Leitch Miss Jessie Wills,0,26,0,0,119907,33,10143,333
+598,0,3,Johnson Mr Alfred,1,30,0,0,944757,0,20106,333
+599,0,3,Boulos Mr Hanna,1,58,0,0,422021,7225,20108,222
+600,1,1,"Duff Gordon Sir Cosmo Edmund (""Mr Morgan"")",1,36,1,0,636401,569292,30126,222
+601,1,2,Jacobsohn Mrs Sidney Samuel (Amy Frances Christy),0,27,2,1,719828,27,30124,333
+602,0,3,Slabenoff Mr Petco,1,63,0,0,542038,78958,20109,333
+603,0,1,Harrington Mr Charles H,1,25,0,0,800557,424,20124,333
+604,0,3,Torber Mr Ernst William,1,36,0,0,269097,805,30122,333
+605,1,1,"Homer Mr Harry (""Mr E Haven"")",1,47,0,0,457648,2655,10118,222
+606,0,3,Lindell Mr Edvard Bengtsson,1,48,1,0,680633,1555,10114,333
+607,0,3,Karaic Mr Milan,1,35,0,0,433523,78958,20129,333
+608,1,1,Daniel Mr Robert Williams,1,44,0,0,737587,305,30106,333
+609,1,2,Laroche Mrs Joseph (Juliette Marie Louise Lafargue),0,45,1,2,848894,415792,10150,222
+610,1,1,Shutes Miss Elizabeth W,0,42,0,0,179174,1534625,20101,333
+611,0,3,Andersson Mrs Anders Johan (Alfrida Konstantia Brogren),0,54,1,5,132691,31275,30138,333
+612,0,3,Jardin Mr Jose Neto,1,61,0,0,618480,705,10137,333
+613,1,3,Murphy Miss Margaret Jane,0,40,1,0,777764,155,30136,111
+614,0,3,Horgan Mr John,1,64,0,0,242617,775,30140,111
+615,0,3,Brocklebank Mr William Alfred,1,61,0,0,147166,805,20109,333
+616,1,2,Herman Miss Alice,0,41,1,2,551286,65,30128,333
+617,0,3,Danbom Mr Ernst Gilbert,1,39,1,1,747836,144,20107,333
+618,0,3,Lobb Mrs William Arthur (Cordelia K Stanlick),0,61,1,0,623558,161,10109,333
+619,1,2,Becker Miss Marion Louise,0,53,2,1,127492,39,20138,333
+620,0,2,Gavey Mr Lawrence,1,60,0,0,724343,105,10144,333
+621,0,3,Yasbeck Mr Antoni,1,62,1,0,172718,144542,10130,222
+622,1,1,Kimball Mr Edwin Nelson Jr,1,24,1,0,367897,525542,30104,333
+623,1,3,Nakid Mr Sahid,1,36,1,1,858178,157417,30111,222
+624,0,3,Hansen Mr Henry Damsgaard,1,30,0,0,696139,78542,20127,333
+625,0,3,"Bowen Mr David John ""Dai""",1,36,0,0,673407,161,30135,333
+626,0,1,Sutton Mr Frederick,1,53,0,0,467634,323208,20113,333
+627,0,2,Kirkland Rev Charles Leonard,1,56,0,0,612898,1235,20121,111
+628,1,1,Longley Miss Gretchen Fiske,0,42,0,0,551253,779583,10147,333
+629,0,3,Bostandyeff Mr Guentcho,1,35,0,0,186746,78958,10106,333
+630,0,3,O'Connell Mr Patrick D,1,49,0,0,768568,77333,30101,111
+631,1,1,Barkworth Mr Algernon Henry Wilson,1,51,0,0,537101,30,20112,333
+632,0,3,Lundahl Mr Johan Svensson,1,20,0,0,257379,70542,30145,333
+633,1,1,Stahelin-Maeglin Dr Max,1,64,0,0,841960,305,30129,222
+634,0,1,Parr Mr William Henry Marsh,1,45,0,0,751947,0,30116,333
+635,0,3,Skoog Miss Mabel,0,39,3,2,748147,279,30140,333
+636,1,2,Davis Miss Mary,0,48,0,0,979855,13,20129,333
+637,0,3,Leinonen Mr Antti Gustaf,1,46,0,0,384962,7925,20136,333
+638,0,2,Collyer Mr Harvey,1,36,1,1,594632,2625,10127,333
+639,0,3,Panula Mrs Juha (Maria Emilia Ojala),0,63,0,5,890976,396875,10132,333
+640,0,3,Thorneycroft Mr Percival,1,25,1,0,356591,161,10120,333
+641,0,3,Jensen Mr Hans Peder,1,42,0,0,935734,78542,30149,333
+642,1,1,Sagesser Mlle Emma,0,24,0,0,239344,693,10108,222
+643,0,3,Skoog Miss Margit Elizabeth,0,28,3,2,487068,279,30100,333
+644,1,3,Foo Mr Choong,1,33,0,0,498480,564958,20107,333
+645,1,3,Baclini Miss Eugenie,0,38,2,1,576996,192583,20130,222
+646,1,1,Harper Mr Henry Sleeper,1,43,1,0,602840,767292,10139,222
+647,0,3,Cor Mr Liudevit,1,27,0,0,450458,78958,20117,333
+648,1,1,Simonius-Blumer Col Oberst Alfons,1,27,0,0,880201,355,30147,222
+649,0,3,Willey Mr Edward,1,48,0,0,953110,755,30127,333
+650,1,3,Stanley Miss Amy Zillah Elsie,0,46,0,0,142540,755,20113,333
+651,0,3,Mitkoff Mr Mito,1,58,0,0,935904,78958,10135,333
+652,1,2,Doling Miss Elsie,0,61,0,1,744376,23,20149,333
+653,0,3,Kalvik Mr Johannes Halvorsen,1,65,0,0,806631,84333,30118,333
+654,1,3,"O'Leary Miss Hanora ""Norah""",0,27,0,0,500342,78292,10120,111
+655,0,3,"Hegarty Miss Hanora ""Nora""",0,45,0,0,959959,675,10112,111
+656,0,2,Hickman Mr Leonard Mark,1,56,2,0,265926,735,10141,333
+657,0,3,Radeff Mr Alexander,1,42,0,0,362413,78958,20150,333
+658,0,3,Bourke Mrs John (Catherine),0,29,1,1,658829,155,20107,111
+659,0,2,Eitemiller Mr George Floyd,1,48,0,0,354462,13,30102,333
+660,0,1,Newell Mr Arthur Webster,1,56,0,2,522580,113275,30140,222
+661,1,1,Frauenthal Dr Henry William,1,27,2,0,717991,13365,10141,333
+662,0,3,Badt Mr Mohamed,1,34,0,0,690555,7225,30148,222
+663,0,1,Colley Mr Edward Pomeroy,1,28,0,0,967398,255875,10146,333
+664,0,3,Coleff Mr Peju,1,31,0,0,519951,74958,10109,333
+665,1,3,Lindqvist Mr Eino William,1,48,1,0,796549,7925,30134,333
+666,0,2,Hickman Mr Lewis,1,52,2,0,826998,735,20101,333
+667,0,2,Butler Mr Reginald Fenton,1,37,0,0,396425,13,30119,333
+668,0,3,Rommetvedt Mr Knud Paust,1,37,0,0,767105,7775,10143,333
+669,0,3,Cook Mr Jacob,1,64,0,0,131624,805,20141,333
+670,1,1,Taylor Mrs Elmer Zebley (Juliet Cummins Wright),0,38,1,0,967755,52,30132,333
+671,1,2,Brown Mrs Thomas William Solomon (Elizabeth Catherine Ford),0,60,1,1,469878,39,30141,333
+672,0,1,Davidson Mr Thornton,1,61,1,0,106461,52,30119,333
+673,0,2,Mitchell Mr Henry Michael,1,39,0,0,448942,105,10131,333
+674,1,2,Wilhelms Mr Charles,1,21,0,0,292546,13,20127,333
+675,0,2,Watson Mr Ennis Hastings,1,52,0,0,750355,0,30133,333
+676,0,3,Edvardsson Mr Gustaf Hjalmar,1,36,0,0,337978,7775,30105,333
+677,0,3,Sawyer Mr Frederick Charles,1,34,0,0,903782,805,30136,333
+678,1,3,Turja Miss Anna Sofia,0,40,0,0,943267,98417,10124,333
+679,0,3,Goodwin Mrs Frederick (Augusta Tyler),0,32,1,6,835374,469,10145,333
+680,1,1,Cardeza Mr Thomas Drake Martinez,1,58,0,1,720379,5123292,20111,222
+681,0,3,Peters Miss Katie,0,61,0,0,486188,81375,10117,111
+682,1,1,Hassab Mr Hammad,1,37,0,0,126074,767292,30110,222
+683,0,3,Olsvigen Mr Thor Anderson,1,35,0,0,441817,9225,10146,333
+684,0,3,Goodwin Mr Charles Edward,1,56,5,2,114997,469,20110,333
+685,0,2,Brown Mr Thomas William Solomon,1,59,1,1,763291,39,10110,333
+686,0,2,Laroche Mr Joseph Philippe Lemercier,1,47,1,2,416544,415792,30135,222
+687,0,3,Panula Mr Jaako Arnold,1,52,4,1,197476,396875,30102,333
+688,0,3,Dakic Mr Branko,1,51,0,0,675383,101708,10148,333
+689,0,3,Fischer Mr Eberhard Thelander,1,59,0,0,429275,77958,20111,333
+690,1,1,Madill Miss Georgette Alexandra,0,56,0,1,345948,2113375,10101,333
+691,1,1,Dick Mr Albert Adrian,1,44,1,0,325196,57,10112,333
+692,1,3,Karun Miss Manca,0,35,0,1,743561,134167,20131,222
+693,1,3,Lam Mr Ali,1,29,0,0,252332,564958,10146,333
+694,0,3,Saad Mr Khalil,1,23,0,0,304290,7225,10100,222
+695,0,1,Weir Col John,1,42,0,0,925764,2655,20125,333
+696,0,2,Chapman Mr Charles Henry,1,37,0,0,101934,135,30106,333
+697,0,3,Kelly Mr James,1,33,0,0,282830,805,20108,333
+698,1,3,"Mullens Miss Katherine ""Katie""",0,46,0,0,708506,77333,30136,111
+699,0,1,Thayer Mr John Borland,1,32,1,1,653709,1108833,10141,222
+700,0,3,Humblen Mr Adolf Mathias Nicolai Olsen,1,25,0,0,144237,765,10112,333
+701,1,1,Astor Mrs John Jacob (Madeleine Talmadge Force),0,64,1,0,227059,227525,30100,222
+702,1,1,Silverthorne Mr Spencer Victor,1,24,0,0,944870,262875,10102,333
+703,0,3,Barbara Miss Saiide,0,59,0,1,580702,144542,20136,222
+704,0,3,Gallagher Mr Martin,1,31,0,0,349311,77417,20113,111
+705,0,3,Hansen Mr Henrik Juul,1,58,1,0,562166,78542,10118,333
+706,0,2,"Morley Mr Henry Samuel (""Mr Henry Marshall"")",1,47,0,0,852555,26,20103,333
+707,1,2,"Kelly Mrs Florence ""Fannie""",0,63,0,0,306379,135,30124,333
+708,1,1,Calderhead Mr Edward Pennington,1,37,0,0,802458,262875,10132,333
+709,1,1,Cleaver Miss Alice,0,40,0,0,996836,15155,30109,333
+710,1,3,"Moubarek Master Halim Gonios (""William George"")",1,45,1,1,600452,152458,20129,222
+711,1,1,"Mayne Mlle Berthe Antonine (""Mrs de Villiers"")",0,64,0,0,893873,495042,10148,222
+712,0,1,Klaber Mr Herman,1,22,0,0,499142,2655,30116,333
+713,1,1,Taylor Mr Elmer Zebley,1,40,1,0,481804,52,20139,333
+714,0,3,Larsson Mr August Viktor,1,28,0,0,190780,94833,30113,333
+715,0,2,Greenberg Mr Samuel,1,35,0,0,488917,13,30101,333
+716,0,3,Soholt Mr Peter Andreas Lauritz Andersen,1,23,0,0,627362,765,10109,333
+717,1,1,Endres Miss Caroline Louise,0,36,0,0,267935,227525,10117,222
+718,1,2,"Troutt Miss Edwina Celia ""Winnie""",0,65,0,0,797316,105,10107,333
+719,0,3,McEvoy Mr Michael,1,60,0,0,403943,155,10121,111
+720,0,3,Johnson Mr Malkolm Joackim,1,26,0,0,400616,7775,30113,333
+721,1,2,"Harper Miss Annie Jessie ""Nina""",0,61,0,1,240057,33,10110,333
+722,0,3,Jensen Mr Svend Lauritz,1,44,1,0,187364,70542,20128,333
+723,0,2,Gillespie Mr William Henry,1,47,0,0,748071,13,30145,333
+724,0,2,Hodges Mr Henry Price,1,63,0,0,402991,13,20141,333
+725,1,1,Chambers Mr Norman Campbell,1,36,1,0,259285,531,30109,333
+726,0,3,Oreskovic Mr Luka,1,46,0,0,353941,86625,20101,333
+727,1,2,Renouf Mrs Peter Henry (Lillian Jefferys),0,61,3,0,943614,21,10128,333
+728,1,3,Mannion Miss Margareth,0,57,0,0,979727,77375,10105,111
+729,0,2,Bryhl Mr Kurt Arnold Gottfrid,1,55,1,0,473950,26,20127,333
+730,0,3,Ilmakangas Miss Pieta Sofia,0,25,1,0,542998,7925,30131,333
+731,1,1,Allen Miss Elisabeth Walton,0,47,0,0,657805,2113375,20145,333
+732,0,3,Hassan Mr Houssein G N,1,60,0,0,461720,187875,30112,222
+733,0,2,Knight Mr Robert J,1,63,0,0,310747,0,10118,333
+734,0,2,Berriman Mr William John,1,65,0,0,329562,13,30116,333
+735,0,2,Troupiansky Mr Moses Aaron,1,40,0,0,339370,13,10129,333
+736,0,3,Williams Mr Leslie,1,51,0,0,891917,161,30125,333
+737,0,3,Ford Mrs Edward (Margaret Ann Watson),0,32,1,3,728967,34375,10143,333
+738,1,1,Lesurer Mr Gustave J,1,30,0,0,428212,5123292,10121,222
+739,0,3,Ivanoff Mr Kanio,1,43,0,0,297807,78958,20114,333
+740,0,3,Nankoff Mr Minko,1,58,0,0,409016,78958,30122,333
+741,1,1,Hawksford Mr Walter James,1,46,0,0,144362,30,10120,333
+742,0,1,Cavendish Mr Tyrell William,1,24,1,0,172845,7885,10133,333
+743,1,1,"Ryerson Miss Susan Parker ""Suzette""",0,22,2,2,509886,262375,30135,222
+744,0,3,McNamee Mr Neal,1,26,1,0,477026,161,10124,333
+745,1,3,Stranden Mr Juho,1,23,0,0,341355,7925,30110,333
+746,0,1,Crosby Capt Edward Gifford,1,27,1,1,869407,71,20146,333
+747,0,3,Abbott Mr Rossmore Edward,1,42,1,1,198105,2025,10121,333
+748,1,2,Sinkkonen Miss Anna,0,63,0,0,526974,13,10136,333
+749,0,1,Marvin Mr Daniel Warner,1,57,1,0,491653,531,30145,333
+750,0,3,Connaghton Mr Michael,1,27,0,0,986642,775,10121,111
+751,1,2,Wells Miss Joan,0,35,1,1,544739,23,20102,333
+752,1,3,Moor Master Meier,1,51,0,1,867987,12475,20102,333
+753,0,3,Vande Velde Mr Johannes Joseph,1,47,0,0,243010,95,30150,333
+754,0,3,Jonkoff Mr Lalio,1,32,0,0,510595,78958,30123,333
+755,1,2,Herman Mrs Samuel (Jane Laver),0,32,1,2,388275,65,10115,333
+756,1,2,Hamalainen Master Viljo,1,23,1,1,244933,145,30101,333
+757,0,3,Carlsson Mr August Sigfrid,1,41,0,0,264414,77958,30111,333
+758,0,2,Bailey Mr Percy Andrew,1,25,0,0,576360,115,20144,333
+759,0,3,Theobald Mr Thomas Leonard,1,43,0,0,780184,805,10137,333
+760,1,1,Rothes the Countess of (Lucy Noel Martha Dyer-Edwards),0,37,0,0,903808,865,10104,333
+761,0,3,Garfirth Mr John,1,30,0,0,549192,145,30141,333
+762,0,3,Nirva Mr Iisakki Antino Aijo,1,32,0,0,298537,7125,30131,333
+763,1,3,Barah Mr Hanna Assi,1,49,0,0,497948,72292,30100,222
+764,1,1,Carter Mrs William Ernest (Lucile Polk),0,51,1,2,182805,120,10127,333
+765,0,3,Eklund Mr Hans Linus,1,43,0,0,342474,7775,30103,333
+766,1,1,Hogeboom Mrs John C (Anna Andrews),0,30,1,0,709386,779583,20103,333
+767,0,1,Brewe Dr Arthur Jackson,1,43,0,0,402985,396,10103,222
+768,0,3,Mangan Miss Mary,0,46,0,0,735141,775,30144,111
+769,0,3,Moran Mr Daniel J,1,60,1,0,169988,2415,10118,111
+770,0,3,Gronnestad Mr Daniel Danielsen,1,47,0,0,972822,83625,20102,333
+771,0,3,Lievens Mr Rene Aime,1,22,0,0,903771,95,30115,333
+772,0,3,Jensen Mr Niels Peder,1,21,0,0,486847,78542,10137,333
+773,0,2,Mack Mrs (Mary),0,45,0,0,759241,105,20135,333
+774,0,3,Elias Mr Dibo,1,20,0,0,824215,7225,30124,222
+775,1,2,Hocking Mrs Elizabeth (Eliza Needs),0,45,1,3,775154,23,10109,333
+776,0,3,Myhrman Mr Pehr Fabian Oliver Malkolm,1,33,0,0,301099,775,30137,333
+777,0,3,Tobin Mr Roger,1,59,0,0,330296,775,10130,111
+778,1,3,Emanuel Miss Virginia Ethel,0,55,0,0,448797,12475,10142,333
+779,0,3,Kilgannon Mr Thomas J,1,28,0,0,788294,77375,20139,111
+780,1,1,Robert Mrs Edward Scott (Elisabeth Walton McMillan),0,21,0,1,116379,2113375,20135,333
+781,1,3,Ayoub Miss Banoura,0,64,0,0,632601,72292,20110,222
+782,1,1,Dick Mrs Albert Adrian (Vera Gillespie),0,42,1,0,748842,57,10122,333
+783,0,1,Long Mr Milton Clyde,1,29,0,0,956978,30,30121,333
+784,0,3,Johnston Mr Andrew G,1,64,1,2,547036,2345,30103,333
+785,0,3,Ali Mr William,1,23,0,0,397000,705,10112,333
+786,0,3,Harmer Mr Abraham (David Lishin),1,64,0,0,878989,725,30120,333
+787,1,3,Sjoblom Miss Anna Sofia,0,60,0,0,361412,74958,20106,333
+788,0,3,Rice Master George Hugh,1,56,4,1,767819,29125,30123,111
+789,1,3,Dean Master Bertram Vere,1,26,1,2,548461,20575,10112,333
+790,0,1,Guggenheim Mr Benjamin,1,39,0,0,791627,792,20132,222
+791,0,3,"Keane Mr Andrew ""Andy""",1,32,0,0,592872,775,20112,111
+792,0,2,Gaskell Mr Alfred,1,39,0,0,578944,26,20117,333
+793,0,3,Sage Miss Stella Anna,0,47,8,2,168508,6955,30147,333
+794,0,1,Hoyt Mr William Fisher,1,50,0,0,759225,306958,30106,222
+795,0,3,Dantcheff Mr Ristiu,1,65,0,0,391016,78958,10124,333
+796,0,2,Otter Mr Richard,1,40,0,0,518617,13,10109,333
+797,1,1,Leader Dr Alice (Farnham),0,61,0,0,310243,259292,20145,333
+798,1,3,Osman Mrs Mara,0,52,0,0,163407,86833,20132,333
+799,0,3,Ibrahim Shawah Mr Yousseff,1,25,0,0,522038,72292,10126,222
+800,0,3,Van Impe Mrs Jean Baptiste (Rosalie Paula Govaert),0,21,1,1,303975,2415,10139,333
+801,0,2,Ponesell Mr Martin,1,48,0,0,660375,13,20124,333
+802,1,2,Collyer Mrs Harvey (Charlotte Annie Tate),0,37,1,1,983155,2625,20118,333
+803,1,1,Carter Master William Thornton II,1,24,1,2,317420,120,20104,333
+804,1,3,Thomas Master Assad Alexander,1,45,0,1,627216,85167,20100,222
+805,1,3,Hedman Mr Oskar Arvid,1,33,0,0,288807,6975,10110,333
+806,0,3,Johansson Mr Karl Johan,1,33,0,0,581840,7775,20103,333
+807,0,1,Andrews Mr Thomas Jr,1,54,0,0,914326,0,20141,333
+808,0,3,Pettersson Miss Ellen Natalia,0,65,0,0,997873,7775,30110,333
+809,0,2,Meyer Mr August,1,31,0,0,251513,13,10145,333
+810,1,1,Chambers Mrs Norman Campbell (Bertha Griggs),0,39,1,0,322581,531,30149,333
+811,0,3,Alexander Mr William,1,54,0,0,128999,78875,30118,333
+812,0,3,Lester Mr James,1,34,0,0,901289,2415,10144,333
+813,0,2,Slemen Mr Richard James,1,38,0,0,668322,105,20123,333
+814,0,3,Andersson Miss Ebba Iris Alfrida,0,32,4,2,575544,31275,20130,333
+815,0,3,Tomlin Mr Ernest Portage,1,45,0,0,592265,805,20136,333
+816,0,1,Fry Mr Richard,1,45,0,0,355973,0,10135,333
+817,0,3,Heininen Miss Wendla Maria,0,23,0,0,988465,7925,30109,333
+818,0,2,Mallet Mr Albert,1,34,1,1,815821,370042,10113,222
+819,0,3,Holm Mr John Fredrik Alexander,1,54,0,0,596111,645,30114,333
+820,0,3,Skoog Master Karl Thorsten,1,47,3,2,209218,279,30138,333
+821,1,1,Hays Mrs Charles Melville (Clara Jennings Gregg),0,49,1,1,552981,935,20142,333
+822,1,3,Lulic Mr Nikola,1,22,0,0,105723,86625,20131,333
+823,0,1,Reuchlin Jonkheer John George,1,24,0,0,219156,0,30139,333
+824,1,3,Moor Mrs (Beila),0,30,0,1,371922,12475,10107,333
+825,0,3,Panula Master Urho Abraham,1,22,4,1,782753,396875,30117,333
+826,0,3,Flynn Mr John,1,27,0,0,322432,695,10125,111
+827,0,3,Lam Mr Len,1,64,0,0,894375,564958,30119,333
+828,1,2,Mallet Master Andre,1,60,0,2,103002,370042,10127,222
+829,1,3,McCormack Mr Thomas Joseph,1,32,0,0,209090,775,20117,111
+830,1,1,Stone Mrs George Nelson (Martha Evelyn),0,54,0,0,612292,80,30127,222
+831,1,3,Yasbeck Mrs Antoni (Selini Alexander),0,63,1,0,814588,144542,20143,222
+832,1,2,Richards Master George Sibley,1,40,1,1,167326,1875,20144,333
+833,0,3,Saad Mr Amin,1,38,0,0,730248,72292,30111,222
+834,0,3,Augustsson Mr Albert,1,50,0,0,111671,78542,20142,333
+835,0,3,Allum Mr Owen George,1,26,0,0,465708,83,10109,333
+836,1,1,Compton Miss Sara Rebecca,0,65,1,1,188011,831583,30133,222
+837,0,3,Pasic Mr Jakob,1,57,0,0,543608,86625,30115,333
+838,0,3,Sirota Mr Maurice,1,46,0,0,730960,805,10121,333
+839,1,3,Chip Mr Chang,1,62,0,0,977724,564958,10112,333
+840,1,1,Marechal Mr Pierre,1,54,0,0,319766,297,10101,222
+841,0,3,Alhomaki Mr Ilmari Rudolf,1,22,0,0,364161,7925,20140,333
+842,0,2,Mudd Mr Thomas Charles,1,29,0,0,602674,105,20123,333
+843,1,1,Serepeca Miss Augusta,0,27,0,0,699214,31,30142,222
+844,0,3,Lemberopolous Mr Peter L,1,52,0,0,692123,64375,10143,222
+845,0,3,Culumovic Mr Jeso,1,42,0,0,246728,86625,10150,333
+846,0,3,Abbing Mr Anthony,1,32,0,0,544337,755,20109,333
+847,0,3,Sage Mr Douglas Bullen,1,46,8,2,504701,6955,10150,333
+848,0,3,Markoff Mr Marin,1,45,0,0,934559,78958,30137,222
+849,0,2,Harper Rev John,1,40,0,1,474957,33,10112,333
+850,1,1,Goldenberg Mrs Samuel L (Edwiga Grabowska),0,37,1,0,240034,891042,30126,222
+851,0,3,Andersson Master Sigvard Harald Elias,1,64,4,2,410883,31275,10114,333
+852,0,3,Svensson Mr Johan,1,48,0,0,682251,7775,20102,333
+853,0,3,Boulos Miss Nourelain,0,52,1,1,305679,152458,20110,222
+854,1,1,Lines Miss Mary Conover,0,51,0,1,842885,394,30147,333
+855,0,2,Carter Mrs Ernest Courtenay (Lilian Hughes),0,55,1,0,497474,26,10148,333
+856,1,3,Aks Mrs Sam (Leah Rosen),0,61,0,1,350916,935,10134,333
+857,1,1,Wick Mrs George Dennick (Mary Hitchcock),0,63,1,1,891300,1648667,30143,333
+858,1,1,Daly Mr Peter Denis ,1,64,0,0,336887,2655,10140,333
+859,1,3,Baclini Mrs Solomon (Latifa Qurban),0,29,0,3,809533,192583,30100,222
+860,0,3,Razi Mr Raihed,1,44,0,0,400295,72292,20113,222
+861,0,3,Hansen Mr Claus Peter,1,53,2,0,522292,141083,30145,333
+862,0,2,Giles Mr Frederick Edward,1,39,1,0,217222,115,20103,333
+863,1,1,Swift Mrs Frederick Joel (Margaret Welles Barron),0,36,0,0,966981,259292,20142,333
+864,0,3,"Sage Miss Dorothy Edith ""Dolly""",0,28,8,2,128242,6955,30146,333
+865,0,2,Gill Mr John William,1,30,0,0,230961,13,30119,333
+866,1,2,Bystrom Mrs (Karolina),0,33,0,0,968124,13,30143,333
+867,1,2,Duran y More Miss Asuncion,0,20,1,0,140143,138583,20113,222
+868,0,1,Roebling Mr Washington Augustus II,1,62,0,0,430465,504958,30122,333
+869,0,3,van Melkebeke Mr Philemon,1,59,0,0,457216,95,20135,333
+870,1,3,Johnson Master Harold Theodor,1,49,1,1,313481,111333,30129,333
+871,0,3,Balkic Mr Cerin,1,51,0,0,102176,78958,10130,333
+872,1,1,Beckwith Mrs Richard Leonard (Sallie Monypeny),0,62,1,1,923219,525542,20116,333
+873,0,1,Carlsson Mr Frans Olof,1,33,0,0,485783,5,30137,333
+874,0,3,Vander Cruyssen Mr Victor,1,35,0,0,179278,9,20150,333
+875,1,2,Abelson Mrs Samuel (Hannah Wizosky),0,41,1,0,170519,24,10149,222
+876,1,3,"Najib Miss Adele Kiamie ""Jane""",0,44,0,0,755956,7225,20116,222
+877,0,3,Gustafsson Mr Alfred Ossian,1,29,0,0,173991,98458,30103,333
+878,0,3,Petroff Mr Nedelio,1,62,0,0,622812,78958,10118,333
+879,0,3,Laleff Mr Kristo,1,26,0,0,330940,78958,30138,333
+880,1,1,Potter Mrs Thomas Jr (Lily Alexenia Wilson),0,50,0,1,381689,831583,30136,222
+881,1,2,Shelley Mrs William (Imanita Parrish Hall),0,31,0,1,660651,26,20107,333
+882,0,3,Markun Mr Johann,1,40,0,0,755269,78958,20115,333
+883,0,3,Dahlberg Miss Gerda Ulrika,0,26,0,0,816259,105167,20144,333
+884,0,2,Banfield Mr Frederick James,1,27,0,0,302785,105,30148,333
+885,0,3,Sutehall Mr Henry Jr,1,38,0,0,875503,705,10150,333
+886,0,3,Rice Mrs William (Margaret Norton),0,24,0,5,590615,29125,30106,111
+887,0,2,Montvila Rev Juozas,1,31,0,0,208790,13,20115,333
+888,1,1,Graham Miss Margaret Edith,0,31,0,0,976907,30,30139,333
+889,0,3,"Johnston Miss Catherine Helen ""Carrie""",0,55,1,2,852708,2345,30122,333
+890,1,1,Behr Mr Karl Howell,1,32,0,0,583067,30,10114,222
+891,0,3,Dooley Mr Patrick,1,20,0,0,590266,775,30128,111
